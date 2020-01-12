@@ -142,12 +142,12 @@ Indeed, the rates of fatality persist in their difference even when there is no 
 
 | Speed limit, mph | Male | Female |
 | --- | --- | --- |
-| 20 | 1.06 | 0.53 |
-| 30 | 1.46 | 0.74 |
-| 40 | 3.30 | 1.61 |
-| 50 | 3.70 | 1.40 |
-| 60 | 3.05 | 1.35 |
-| 70 | 3.54 | 1.51 |
+| 20 | 2.67 | 0.77 |
+| 30 | 1.67 | 0.39 |
+| 40 | 2.31 | 1.07 |
+| 50 | 3.00 | 1.03 |
+| 60 | 2.62 | 1.10 |
+| 70 | 2.81 | 0.78 |
 
 ### reporting rate
 
@@ -155,12 +155,12 @@ We might assume that slight injuries are under-reported for male drivers, meanin
 
 | Speed limit, mph | Male | Female |
 | --- | --- | --- |
-| 20 | 1.74 | 0.00 |
-| 30 | 1.80 | 0.91 |
-| 40 | 2.96 | 1.46 |
-| 50 | 3.61 | 1.43 |
-| 60 | 3.08 | 1.55 |
-| 70 | 3.32 | 1.70 |
+| 20 | 0.64 | 0.00 |
+| 30 | 1.40 | 0.31 |
+| 40 | 2.34 | 1.01 |
+| 50 | 3.72 | 0.66 |
+| 60 | 2.93 | 1.02 |
+| 70 | 3.43 | 0.79 |
 
 ---
 
